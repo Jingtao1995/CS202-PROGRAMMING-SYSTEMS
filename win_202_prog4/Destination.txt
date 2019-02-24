@@ -1,0 +1,8 @@
+Las Vegas,United State
+Beijing,China
+Seattle,United State
+Shanghai,China
+Shenzhen,China
+Los Angeles,United State
+Guangzhou,China
+New York,United State

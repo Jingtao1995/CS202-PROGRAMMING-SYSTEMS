@@ -1,0 +1,36 @@
+1|2F4U|Too fast for you|
+1|MMW|Mark my words|
+1|AAMOF|As a matter of fact|
+1|AFAIK|As far as I know|
+1|CU|See you|
+1|EOM|End of message|
+1|IDK|I Don't know|
+1|HF|Have fun|
+1|HTH|Hope this helps|
+1|IMO|In my opinion|
+1|LOL|Laughing out loud|
+1|SFLR|Sorry for late reply|
+1|TQ|Thank you|
+1|THX|Thanks|
+2|,|,  |
+2|!|!  |
+2|?|?  |
+2|.|.  |
+2|;|;  |
+2|:|:  |
+3|week|أسبوع|
+3|year|سنة|
+3|today|اليوم|
+3|tomorrow|غداً|
+3|yesterday|أمس|
+3|calendar|أمس|
+3|second|ثانية|
+3|hour|ثانية|
+3|minute|دقيقة|
+3|o'clock|الساعة|
+3|do|قام|
+3|go|ذهب|
+3|see|رأى|
+3|small|صغير|
+3|good|جيد|
+3|beautiful|جميل|

@@ -1,0 +1,10 @@
+San Jose,United States
+Phoenix,United States
+San Diego,United States
+San Antonio,United States
+Dallas,United States
+Houston,United States
+Chicago,United States
+Philadelphia,United States
+New York,United States
+Seattle,United States

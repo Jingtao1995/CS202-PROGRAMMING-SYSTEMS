@@ -1,0 +1,12 @@
+Beijing,China
+Shanghai,China
+Shenzhen,China
+Guangzhou,China
+Tianjin,China
+Taipei,China
+Hongkong,China
+Dongguan,China
+Hangzhou,China
+Chengdu,China
+
+
