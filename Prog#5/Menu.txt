@@ -1,0 +1,10 @@
+1,Apple Goat Cheese Bruschetta,Not Edit,13
+1,Cranberry Chili Meatballs,sing packaged meatballs helps save time in the kitchen and they are just as tasty as homemade,12
+1,Bacon-Cheddar Deviled Eggs,Not Edit,9
+2,Whole Trout with Apple Mustard and Charred Cabbage Apple Slaw,American Seafood,23
+2,Mashed Potato Pancakes,Not Edit,15
+3,Coca,Not Edit,3
+3,Wine,Not Edit,16
+4,Cake,Not Edit,8
+2,Fried Calamari,Tossed with peppadews & Balsamic reduction,22
+2,Baby Arugula,Segmented Frapefruit plum asiago lemon E.V.O.O,19
